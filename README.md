@@ -1,3 +1,7 @@
+---
+typora-root-url: preview
+---
+
 ```
 Android-PickerView
 
@@ -8,8 +12,8 @@ Android-PickerView
 目的只为实现项目设计和群内小伙伴的需求，如需查看原项目请自行前往。
 
 实现效果如下：
+![time_sting](/time_sting.jpg)
 
-![S80514-191019](C:\Users\ypuse\Desktop\S80514-191019.jpg)
 
 代码设置：
 
