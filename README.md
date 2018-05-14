@@ -9,7 +9,7 @@
 
 
 
-![time_sting](/time_sting.png)
+![效果图](https://github.com/lijin-007/Android-pickerview/blob/master/preview/time_sting.png)
 
 
 **代码设置：**
